@@ -1,6 +1,10 @@
 # ConverterEntityHTML
 Faz a conversão de um payload em caracteres Entidade HTML
 
+![Tela da aplicação](tela.png) 
+
+Rodar com Live Server
+
 Lista Entidades HTML
 
 Caracteres Alfabéticos Maiusculos:
