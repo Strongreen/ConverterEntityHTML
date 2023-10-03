@@ -13,7 +13,7 @@ Lista Entidades HTML
 
 &#66 = 'B'
 
-&#67 = 'C' 
+&#67 = 'C'
 
 &#68 = 'D' 
 
