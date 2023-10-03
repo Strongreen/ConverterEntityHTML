@@ -1,5 +1,6 @@
 # ConverterEntityHTML
-Faz a conversão de um payload em caracteres Entidade HTML
+
+Faz a conversão de um payload em caracteres Entidade HTML e pode ser usado para bypass em campos que só aceitam caracteres em uppercase em XSS e HTML Injection
 
 ![Tela da aplicação](tela.png) 
 
